@@ -1,3 +1,7 @@
 Name: Abdul Sharif
 Title: Janitor
 Hobbies: [Cooking, Hiking, Snowboarding]
+
+Name: Ahmad Ali
+Title: Senior Janitor
+Hobbies: [Photography]
