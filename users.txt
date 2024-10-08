@@ -1,1 +1,3 @@
-Abdul Sharif
+Name: Abdul Sharif
+Title: Janitor
+Hobbies: [Cooking, Hiking, Snowboarding]
