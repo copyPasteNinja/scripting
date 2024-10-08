@@ -5,3 +5,7 @@ Hobbies: [Cooking, Hiking, Snowboarding]
 Name: Ahmad Ali
 Title: Senior Janitor
 Hobbies: [Photography]
+
+Name: Akmal K
+Title: Janitor CEO
+Hobbies: [Soccer]
