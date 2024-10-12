@@ -1,0 +1,12 @@
+
+Psuedo Code for extracting logs of HTTPD and dynamically append them into HTML table.
+
+1. Set Table Row variable with table row header as TableRow
+2. Iterate through Apache's last 10 lines of logs
+    a. extract IP address as IP_ADDRESS
+    b. extract date time as DATE_TIME
+    a. Append a table row with the extracted data along with $(whoami) to indicate user
+3. Set HTMl Content as Variale along with TableRow varible embedded inside
+4. echo HTML content to index.html
+
+
