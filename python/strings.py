@@ -9,4 +9,10 @@ multi_line_str = '''
 This is a first line
 This is second line 
 This is third line'''
-print(multi_line_str + "\nThis is 4th line\n")
+# print(multi_line_str + "\nThis is 4th line\n")
+
+name = input("Enter your name: ")
+fstring = f"My name is {name}"
+print(fstring)
+
+
